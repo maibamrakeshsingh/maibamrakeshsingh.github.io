@@ -3,7 +3,7 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Maibam Rakesh Singh
 
 # Full name (for SEO)
 first_name: Maibam Rakesh
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Mathematical Physicist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Data & Machine Learning Engineer
     url: https://openai.com/
 
 # Social network links
