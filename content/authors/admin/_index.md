@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Maibam Rakesh
+last_name: Singh
 
 # Status emoji
 status:
