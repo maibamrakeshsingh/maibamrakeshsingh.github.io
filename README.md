@@ -1,4 +1,4 @@
-# [Maibam R. KhumanCha](https://github.com/HugoBlox/theme-academic-cv)
+# [Maibiya R. KhumanCha](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
 
