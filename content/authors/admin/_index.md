@@ -11,7 +11,7 @@ last_name: Singh
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:maibamrakeshsingh31gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Probability Theory
+  - Quantum Statistical Mechanics
+  - Quantum Information Theory
 
 education:
   - area: PhD Artificial Intelligence
