@@ -185,7 +185,7 @@ redirect_from:
 </style>
 
 <div class="content-text">
-  <strong>John Doe</strong> is a fully funded Ph.D. researcher in Environmental Data Science at the <strong>University of Earth Sciences</strong>, advised by <strong>Dr. Jane Smith</strong> in the <strong>Climate Analytics Lab</strong>. His research applies Machine Learning and Spatial-Temporal Neural Networks to predictive climate modeling. Currently, he develops deep learning architectures to build AI-driven urban planning tools for <strong>Urban Heat Island (UHI) mitigation</strong>. Through multi-institutional collaborations, his work aims to translate environmental algorithms into scalable solutions for municipal governments and sustainability NGOs.
+  <strong>Maibam Rakesh</strong> is a fully funded Ph.D. researcher in Environmental Data Science at the <strong>University of Earth Sciences</strong>, advised by <strong>Dr. Jane Smith</strong> in the <strong>Climate Analytics Lab</strong>. His research applies Machine Learning and Spatial-Temporal Neural Networks to predictive climate modeling. Currently, he develops deep learning architectures to build AI-driven urban planning tools for <strong>Urban Heat Island (UHI) mitigation</strong>. Through multi-institutional collaborations, his work aims to translate environmental algorithms into scalable solutions for municipal governments and sustainability NGOs.
 </div>
 
 <div class="content-text">
