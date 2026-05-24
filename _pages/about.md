@@ -239,8 +239,8 @@ redirect_from:
   </div>
 
   <div class="timeline-item milestone">
-    <div class="timeline-date">Dec 2022</div>
-    <div class="timeline-content">Graduated with an <strong>M.Sc. in Geospatial Analytics</strong> (CGPA: 4.0).</div>
+    <div class="timeline-date">May 2026</div>
+    <div class="timeline-content">Graduated with an <strong>M.Sc. in Statistics</strong> (CGPA: 9.31/10).</div>
   </div>
 
   <div class="timeline-item">
