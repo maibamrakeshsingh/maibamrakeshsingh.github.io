@@ -201,6 +201,7 @@ redirect_from:
   <span class="pill">Network and Complex Systems</span>
   <span class="pill">Stochastics Geometry</span>
   <span class="pill">Scientific Machine Learning</span>
+  <span class="pill">Data Science</span>
   <span class="pill">Statistical Inference</span>
   <span class="pill">Probability Theory</span>
 </div>
