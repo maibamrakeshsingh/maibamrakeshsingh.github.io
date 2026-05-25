@@ -220,7 +220,7 @@ redirect_from:
 
   <div class="timeline-item milestone">
     <div class="timeline-date">May 2026</div>
-    <div class="timeline-content">Graduated with an M.Sc. in Statistics from Bharathidasan University, Tiruchirappalli, achieving a CGPA of (9.31/10).</div>
+    <div class="timeline-content">Graduated with an <strong>M.Sc.<strong> in Statistics <strong>(CGPA: 9.31/10)<strong> from <strong>Bharathidasan University, Tiruchirappalli<strong>.</div>
   </div>
 
 </div>
