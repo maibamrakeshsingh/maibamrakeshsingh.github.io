@@ -193,16 +193,16 @@ redirect_from:
 </div>
 
 <div class="collab-box" style="text-align: justify; text-justify: inter-word;">
-  <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities to contribute to environmental science.
+  <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities to contribute to mathematical statistics and Mathematical physics.
 </div>
 
 <h2 class="section-title">Research Interests</h2>
 <div class="interest-pills">
-  <span class="pill">Climate Modeling</span>
-  <span class="pill">Deep Learning</span>
+  <span class="pill">Complex Systems</span>
+  <span class="pill">Stochastics Geometry</span>
   <span class="pill">Spatial Analytics</span>
-  <span class="pill">Remote Sensing</span>
-  <span class="pill">Urban Planning</span>
+  <span class="pill">Statistical Inference</span>
+  <span class="pill">Probability Theory</span>
 </div>
 
 <h2 class="section-title">Recent News</h2>
@@ -212,16 +212,6 @@ redirect_from:
     <div class="timeline-date">Mar 2026</div>
     <div class="timeline-content">Accepted a fully-funded Ph.D. offer in Environmental Data Science at the <strong>UES</strong>.</div>
   </div>
-  
-  <div class="timeline-item">
-    <div class="timeline-date">Jan 2025</div>
-    <div class="timeline-content">Urban canopy mapping paper accepted at <strong>ICCI '25</strong>.</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">July 2024</div>
-    <div class="timeline-content">Microclimate temperature analysis paper accepted in <strong>Sustainable Cities and Society</strong>.</div>
-  </div>
 
   <div class="timeline-item">
     <div class="timeline-date">Apr 2024</div>
@@ -229,23 +219,8 @@ redirect_from:
   </div>
 
   <div class="timeline-item milestone">
-    <div class="timeline-date">Aug 2023</div>
-    <div class="timeline-content">Joined the <strong>Department of Urban Development</strong> as a <strong>Climate Data Scientist</strong>.</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Jul 2023</div>
-    <div class="timeline-content">Book chapter accepted in the <strong>Handbook of Computational Sustainability</strong> (Springer).</div>
-  </div>
-
-  <div class="timeline-item milestone">
     <div class="timeline-date">May 2026</div>
     <div class="timeline-content">Graduated with an <strong>M.Sc. in Statistics</strong> (CGPA: 9.31/10).</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Aug 2021</div>
-    <div class="timeline-content">Joined the <strong>Institute of Earth Sciences</strong> as a <strong>Graduate Research Assistant</strong>.</div>
   </div>
 
 </div>
