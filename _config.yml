@@ -13,9 +13,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Maibam Rakesh"
 description              : &description "Your Title / Role Here"
-url                      : "https://minimalacademicsite.github.io" 
-baseurl                  : "" 
-repository               : "minimalacademicsite/minimalacademicsite.github.io"
+url                      : "https://github.com/maibamrakeshsingh/mrkh.github.io" 
+baseurl                  : "https://github.com/maibamrakeshsingh/mrkh.github.io" 
+repository               : "https://github.com/maibamrakeshsingh/mrkh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
