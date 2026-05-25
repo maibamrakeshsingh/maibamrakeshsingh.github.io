@@ -198,9 +198,9 @@ redirect_from:
 
 <h2 class="section-title">Research Interests</h2>
 <div class="interest-pills">
-  <span class="pill">Complex Systems</span>
+  <span class="pill">Network and Complex Systems</span>
   <span class="pill">Stochastics Geometry</span>
-  <span class="pill">Spatial Analytics</span>
+  <span class="pill">Scientific Machine Learning</span>
   <span class="pill">Statistical Inference</span>
   <span class="pill">Probability Theory</span>
 </div>
