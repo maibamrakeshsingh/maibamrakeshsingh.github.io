@@ -222,7 +222,7 @@ Advancing research at the intersection of theory and application as a Per-Doctor
 
   <div class="timeline-item milestone">
     <div class="timeline-date">May 2026</div>
-    <div class="timeline-content">Graduated with an <strong>M.Sc.</strong> in Statistics <strong>(CGPA: 9.31/10)</strong> from <strong>Bharathidasan University - Tiruchirappalli</strong>.</div>
+    <div class="timeline-content">Graduated with an <strong>M.Sc.</strong> in Statistics <strong>(First Class and Distinction - 9.31/10)</strong> from <strong>Bharathidasan University - Tiruchirappalli</strong>.</div>
   </div>
 
 </div>
