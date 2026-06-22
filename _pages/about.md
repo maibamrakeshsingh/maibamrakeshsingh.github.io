@@ -184,13 +184,12 @@ redirect_from:
   }
 </style>
 
-```html
 <div class="content-text">
-  <strong>Maibam Rakesh</strong> is a Per-Doctoral Researcher in Mathematical Statistics at <strong>Bharathidasan University</strong>, working under the supervision of <strong>Dr. T. Jai Sankar</strong> in the <strong>Department of Statistics</strong>. His research integrates <strong>Statistical Learning</strong>, <strong>Stochastic Processes</strong>, and <strong>Agent-Based Modeling</strong> to investigate complex real-world systems and climate-related challenges. Currently, he is actively seeking Ph.D. opportunities to further advance research in applied mathematics, mathematical and applied statistics, with an emphasis on data-driven modeling and stochastic methodologies.
+  <strong>Maibam Rakesh</strong> is a Per-Doctoral Researcher in Mathematical Statistics at <strong>Bharathidasan University</strong>, working under the supervision of <strong>Dr. T. Jai Sankar</strong> in the <strong>Department of Statistics</strong>. His research integrates <strong>Statistical Learning</strong>, <strong>Stochastic Processes</strong>, and <strong>Agent-Based Modeling</strong> to investigate complex real-world phenomena and develop solutions to contemporary scientific and interdisciplinary challenges. Currently, he is actively seeking Ph.D. opportunities to further advance research in mathematics, mathematical and applied statistics, with an emphasis on data-driven modeling and stochastic methodologies.
 </div>
 
 <div class="content-text">
-  Multidisciplinary academic background includes an <strong>M.Sc. in Statistics</strong>, a <strong>B.Sc. in Mathematics</strong>, and a <strong>B.Sc. (Honours) in Physics</strong>. Ready for research collaborations, with contributions published in peer-reviewed venues indexed by <strong>IEEE Xplore</strong>, the <strong>ACM Digital Library</strong>, and <strong>Springer</strong>. Through his interdisciplinary training and research experience, he aims to develop innovative applied mathematical and statistical methodologies to address contemporary scientific and societal challenges.
+  Multidisciplinary academic background includes an <strong>M.Sc. in Statistics</strong>, a <strong>B.Sc. in Mathematics</strong>, and a <strong>B.Sc. (Honours) in Physics</strong>.Open to collaborative research opportunities, he is committed to advancing innovative mathematical and statistical frameworks for investigating complex real-world phenomena and tackling contemporary scientific and societal challenges.
 </div>
 
 
