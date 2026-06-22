@@ -212,17 +212,17 @@ Advancing research at the intersection of theory and application as a Per-Doctor
   
   <div class="timeline-item milestone">
     <div class="timeline-date">June 2026</div>
-    <div class="timeline-content">Accepted a Ph.D. Position offer in Statistics and Data Science at the <strong>CUSAT</strong>.</div>
+    <div class="timeline-content">Accepted a Ph.D. Position offer in Statistics and Data Science at the <strong>CUSAT - Cochin</strong>.</div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-date">June 2026</div>
-    <div class="timeline-content">Accepted a Ph.D. research offer in Statistics at the <strong>Madras University</strong>.</div>
+    <div class="timeline-content">Accepted a Ph.D. research offer in Statistics at the <strong>Madras University - Chennai</strong>.</div>
   </div>
 
   <div class="timeline-item milestone">
     <div class="timeline-date">May 2026</div>
-    <div class="timeline-content">Graduated with an <strong>M.Sc.</strong> in Statistics <strong>(CGPA: 9.31/10)</strong> from <strong>Bharathidasan University, Tiruchirappalli</strong>.</div>
+    <div class="timeline-content">Graduated with an <strong>M.Sc.</strong> in Statistics <strong>(CGPA: 9.31/10)</strong> from <strong>Bharathidasan University - Tiruchirappalli</strong>.</div>
   </div>
 
 </div>
