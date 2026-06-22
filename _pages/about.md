@@ -189,7 +189,7 @@ Advancing research at the intersection of theory and application as a Per-Doctor
 </div>
 
 <div class="content-text">
-  Multidisciplinary academic background includes an <strong>M.Sc. in Statistics</strong>, a <strong>B.Sc.(General) in Mathematics and Statistics</strong>, and a <strong>B.Sc. (Honours) in Physics</strong>. Open to collaborative research opportunities, with a strong commitment to advancing innovative mathematical and statistical frameworks for investigating complex real-world phenomena and addressing contemporary scientific and societal challenges.
+  Multidisciplinary academic background includes an <strong>M.Sc. in Statistics</strong>, a <strong>B.Sc. (General) in Mathematics and Statistics</strong>, and a <strong>B.Sc. (Honours) in Physics</strong>. Open to collaborative research opportunities, with a strong commitment to advancing innovative mathematical and statistical frameworks for investigating complex real-world phenomena and addressing contemporary scientific and societal challenges.
 </div>
 
 
