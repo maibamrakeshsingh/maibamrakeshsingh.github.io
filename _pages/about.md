@@ -185,7 +185,7 @@ redirect_from:
 </style>
 
 <div class="content-text">
-  <strong>Maibam Rakesh</strong> is a Per-Doctoral Researcher in Mathematical Statistics at <strong>Bharathidasan University</strong>, working under the supervision of <strong>Dr. T. Jai Sankar</strong> in the <strong>Department of Statistics</strong>. Research integrates <strong>Statistical Learning</strong>, <strong>Stochastic Processes</strong>, and <strong>Agent-Based Modeling</strong> to investigate complex real-world phenomena and develop solutions to contemporary scientific and interdisciplinary challenges. Currently pursuing Ph.D. opportunities to contribute to the advancement of mathematics, mathematical statistics, and applied statistics through innovative research in data-driven modeling, stochastic processes, and complex systems analysis.
+Advancing research at the intersection of theory and application as a Per-Doctoral Researcher in Mathematical Statistics at <strong>Bharathidasan University</strong>, working under the supervision of <strong>Dr. T. Jai Sankar</strong> in the <strong>Department of Statistics</strong>. Research integrates <strong>Statistical Learning</strong>, <strong>Stochastic Processes</strong>, and <strong>Agent-Based Modeling</strong> to investigate complex real-world phenomena and develop solutions to contemporary scientific and interdisciplinary challenges. Currently pursuing Ph.D. opportunities to contribute to the advancement of mathematics, mathematical statistics, and applied statistics through innovative research in data-driven modeling, stochastic processes, and complex systems analysis.
 </div>
 
 <div class="content-text">
