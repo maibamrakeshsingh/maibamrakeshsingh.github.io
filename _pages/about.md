@@ -185,7 +185,9 @@ redirect_from:
 </style>
 
 <div class="content-text">
-Advancing research at the intersection of theory and application as a Per-Doctoral Researcher in Mathematical Statistics at <strong>Bharathidasan University</strong>, working under the supervision of <strong>Dr. T. Jai Sankar</strong> in the <strong>Department of Statistics</strong>. Research integrates <strong>Statistical Learning</strong>, <strong>Stochastic Processes</strong>, and <strong>Agent-Based Modeling</strong> to investigate complex real-world phenomena and develop solutions to contemporary scientific and interdisciplinary challenges. Currently pursuing Ph.D. opportunities to contribute to the advancement of mathematics, mathematical statistics, and applied statistics through innovative research in data-driven modeling, stochastic processes, and complex systems analysis.
+  <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities to contribute - Mathematics, Mathematical and Applied Statistics, and Scientific Statistical Learning.
+  <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities to contribute - Mathematics, Mathematical and Applied Statistics, and Scientific Statistical Learning.
+Advancing research at the intersection of theory and application as a Per-Doctoral Researcher in Mathematical Statistics at <strong>Bharathidasan University</strong>, working under the supervision of <strong>Dr. T. Jai Sankar</strong> in the <strong>Department of Statistics</strong>. Research integrates <strong>Statistical Learning</strong>, <strong>Stochastic Processes</strong>, and <strong>Agent-Based Modeling</strong> to investigate complex real-world phenomena and develop solutions to contemporary scientific and interdisciplinary challenges. Currently seeking Ph.D. opportunities to contribute to the advancement of mathematics, mathematical statistics, and applied statistics through innovative research in data-driven modeling, stochastic processes, and complex systems analysis.
 </div>
 
 <div class="content-text">
@@ -211,13 +213,13 @@ Advancing research at the intersection of theory and application as a Per-Doctor
 <div class="news-scroll-container">
   
   <div class="timeline-item milestone">
-    <div class="timeline-date">Mar 2026</div>
-    <div class="timeline-content">Accepted a fully-funded Ph.D. offer in Environmental Data Science at the <strong>UES</strong>.</div>
+    <div class="timeline-date">June 2026</div>
+    <div class="timeline-content">Accepted a Ph.D. Position offer in Statistics and Data Science at the <strong>CUSAT</strong>.</div>
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">Apr 2024</div>
-    <div class="timeline-content">Urban Heat Island forecasting paper published in the <strong>Journal of Environmental Informatics</strong>.</div>
+    <div class="timeline-date">June 2026</div>
+    <div class="timeline-content">Accepted a Ph.D. research offer in Statistics at the <strong>Madras University</strong>.</div>
   </div>
 
   <div class="timeline-item milestone">
