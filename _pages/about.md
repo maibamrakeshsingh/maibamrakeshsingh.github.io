@@ -195,7 +195,7 @@ redirect_from:
 
 
 <div class="collab-box" style="text-align: justify; text-justify: inter-word;">
-  <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities to contribute - Mathematics, Mathematical and Applied Statistics, and Scientific Machine Learning.
+  <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities to contribute - Mathematics, Mathematical and Applied Statistics, and Scientific Statistical Learning.
 </div>
 
 <h2 class="section-title">Research Interests</h2>
