@@ -184,13 +184,15 @@ redirect_from:
   }
 </style>
 
+```html
 <div class="content-text">
-  <strong>Maibam Rakesh</strong> is a fully funded Ph.D. researcher in Environmental Data Science at the <strong>University of Earth Sciences</strong>, advised by <strong>Dr. Jane Smith</strong> in the <strong>Climate Analytics Lab</strong>. His research applies Machine Learning and Spatial-Temporal Neural Networks to predictive climate modeling. Currently, he develops deep learning architectures to build AI-driven urban planning tools for <strong>Urban Heat Island (UHI) mitigation</strong>. Through multi-institutional collaborations, his work aims to translate environmental algorithms into scalable solutions for municipal governments and sustainability NGOs.
+  <strong>Maibam Rakesh</strong> is a Per-Doctoral Researcher in Mathematical Statistics at <strong>Bharathidasan University</strong>, working under the supervision of <strong>Dr. T. Jai Sankar</strong> in the <strong>Department of Statistics</strong>. His research integrates <strong>Statistical Learning</strong>, <strong>Stochastic Processes</strong>, and <strong>Agent-Based Modeling</strong> to investigate complex real-world systems and climate-related challenges. Currently, he is actively seeking Ph.D. opportunities to further advance research in applied mathematics, mathematical and applied statistics, with an emphasis on data-driven modeling and stochastic methodologies.
 </div>
 
 <div class="content-text">
-  Doe’s multidisciplinary foundation includes an M.Sc. in Geospatial Analytics, and a B.Sc. in Environmental Engineering. He is an inductee of the <strong>Global Sustainability Honor Society</strong> and recipient of the <strong>Green Earth Memorial Award</strong>. His research addressing real-world climate challenges is widely published in peer-reviewed venues indexed across <strong>IEEE Xplore</strong>, the <strong>ACM Digital Library</strong>, and <strong>Springer</strong>.
+  Multidisciplinary academic background includes an <strong>M.Sc. in Statistics</strong>, a <strong>B.Sc. in Mathematics</strong>, and a <strong>B.Sc. (Honours) in Physics</strong>. Ready for research collaborations, with contributions published in peer-reviewed venues indexed by <strong>IEEE Xplore</strong>, the <strong>ACM Digital Library</strong>, and <strong>Springer</strong>. Through his interdisciplinary training and research experience, he aims to develop innovative applied mathematical and statistical methodologies to address contemporary scientific and societal challenges.
 </div>
+
 
 <div class="collab-box" style="text-align: justify; text-justify: inter-word;">
   <i class="fas fa-lightbulb" style="color: #64748b; margin-right: 8px;"></i> I am actively seeking collaborative research opportunities to contribute - Mathematical Statistics, Mathematical physics and Scientific Machine Learning.
