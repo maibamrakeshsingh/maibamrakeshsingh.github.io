@@ -198,11 +198,12 @@ redirect_from:
 
 <h2 class="section-title">Research Interests</h2>
 <div class="interest-pills">
-  <span class="pill">Network and Complex Systems</span>
-  <span class="pill">Stochastics Geometry</span>
-  <span class="pill">Data Science and Scientific Machine Learning</span>
-  <span class="pill">Statistical Inference</span>
-  <span class="pill">Probability Theory</span>
+  <span class="pill">Probability Theory & Stochastic Processes</span>
+  <span class="pill">Stochastic & Information Geometry</span>
+  <span class="pill">Spatial Statistics & Stochastic Fields</span>
+  <span class="pill">Scientific Machine Learning (PINNs)</span>
+  <span class="pill">Biostatistics & Epidemiological Modeling</span>
+  <span class="pill">Statistical Inference & Learning Theory</span>
 </div>
 
 <h2 class="section-title">Recent News</h2>
