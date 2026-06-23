@@ -209,16 +209,6 @@ Advancing research at the intersection of theory and application as a Per-Doctor
 
 <h2 class="section-title">Recent News</h2>
 <div class="news-scroll-container">
-  
-  <div class="timeline-item milestone">
-    <div class="timeline-date">June 2026</div>
-    <div class="timeline-content">Accepted a Ph.D. Position offer in Statistics and Data Science at the <strong>CUSAT - Cochin</strong>.</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">June 2026</div>
-    <div class="timeline-content">Accepted a Ph.D. research offer in Statistics at the <strong>Madras University - Chennai</strong>.</div>
-  </div>
 
   <div class="timeline-item milestone">
     <div class="timeline-date">May 2026</div>
